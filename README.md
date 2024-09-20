@@ -10,7 +10,7 @@ variété de plats, allant des burgers aux pizzas, en passant par les sandwichs,
 bien d'autres. Les utilisateurs ont la liberté de choisir parmi ces catégories en fonction de 
 leurs envies et de leurs besoins alimentaires.
 Pour profiter pleinement des services du site, chaque client doit créer un compte personnel. 
-L'inscription est simple et nécessite des informations de base telles que le nom, l'adresse email et le mot de passe. Une fois connecté, le client a accès à un tableau de bord 
+L'inscription est simple et nécessite des informations de base telles que le nom, l'adresse e-mail et le mot de passe. Une fois connecté, le client a accès à un tableau de bord 
 personnalisé où il peut gérer son profil, consulter l'historique de ses commandes et accéder à 
 ses préférences alimentaires enregistrées.
 Lors de la navigation sur le site, les clients peuvent explorer les différentes catégories de 
